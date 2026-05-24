@@ -4,3 +4,5 @@ The below link for getting mediapipe's pose detection .task file
 Creating virtual enviroment will be profitable for you
 The code was tasted on **python version-3.9**
 Install mediapipe and opencv by -> pip install mediapipe opencv-python
+# video playback
+<img width="400" height="296" alt="Screencast from 2026-02-06 13-07-23" src="https://github.com/user-attachments/assets/f68d835d-ebc8-484e-baf5-32fdbd80f9bd" />
